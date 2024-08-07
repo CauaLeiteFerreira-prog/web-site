@@ -1,0 +1,38 @@
+.titulo{
+    font-size:larger;
+}
+
+.link,a{
+    text-align: center;
+    text-decoration: crimson;
+    color: rgb(181, 173, 173);
+    
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    background-color: rgb(73, 73, 73)
+
+    
+}
+
+.container img{
+    margin-right: 20px;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    border: 8px solid rgb(0, 0, 0);
+    
+
+}
+
+.fotos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
